@@ -10,7 +10,7 @@ This project utilizes YOLOv8 for ship detection in Synthetic Aperture Radar (SAR
 
 ## 📸 Demo
 
-![SAR Ship Detection Demo](demo/demo.gif)
+![SAR Ship Detection Demo](demo.gif)
 
 ## 🛠️ Requirements
 
