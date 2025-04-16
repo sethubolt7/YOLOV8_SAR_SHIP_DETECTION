@@ -8,9 +8,14 @@ This project utilizes YOLOv8 for ship detection in Synthetic Aperture Radar (SAR
 - **Video Input**: Detects ships in uploaded video files frame-by-frame.
 - **Real-time Results**: Displays the number of detected ships in the current frame.
 
-## 📸 Demo
+## 📽️ Demo & Visuals
 
-![SAR Ship Detection Demo](demo.gif)
+<p align="center">
+  <img src="demo/demo.gif" width="32%" />
+  <img src="demo/demo2.png" width="32%" />
+  <img src="demo/screen.png" width="32%" />
+</p>
+
 
 ## 🛠️ Requirements
 
