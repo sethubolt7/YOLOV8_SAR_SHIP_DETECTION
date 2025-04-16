@@ -55,7 +55,7 @@ This project utilizes YOLOv8 for ship detection in Synthetic Aperture Radar (SAR
 
 ## ⚙️ Model Details
 
-The model used in this project is YOLOv8, a state-of-the-art object detection model, trained to detect ships in SAR images.
+The model used in this project is YOLOv8, trained to detect ships in SAR images.
 
 ### Steps:
 - The model uses **YOLOv8** architecture.
